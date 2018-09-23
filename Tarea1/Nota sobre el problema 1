@@ -1,0 +1,11 @@
+1.-Se nos indico entregar de nuevo el problema 1 con los resultados
+"compilados" para no tener que correr el programa en la revisión de
+la tarea.
+2.-Se nos dio de lapso la semana en curso.
+3.-El PDF entregado tiene errores de traducción a latex, por ejemplo
+formulas matemáticas, esto es porque se usó la utilidad de 
+Jupyter Notebook para exportar a PDF.
+4.-Se recomienda descargar y correr el archivo .html con el problema
+1, se implementó 1 script que permite ocultar las secciones con código
+y hace que el problema se pueda leer fluidamente sin distraerse con el
+código.
